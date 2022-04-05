@@ -4,13 +4,20 @@
 
 ## Time to prepare: 5 minutes
 
-## Ingredients: half gallon milk and corn flakes 
+## Ingredients: 
+  - half gallon almond milk
+  - 8 cups of dry corn flakes 
 
 
-## Equipment needed: bowl and spoon
+## Equipment needed: 
+  - 4 bowls
+  - 4 spoons
 
 
-## Steps for preparation: pour box of cereal and pour half gallon of milk
+## Steps for preparation: 
+  - take bowl out
+  - add 2 cups of dry cereal
+  - pour almond milk 
 
 
 
