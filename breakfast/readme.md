@@ -14,7 +14,7 @@
 
 
 
-### Notes: enough for 4.
+### Notes: enough for 4 humans, 2 large humans, or 1 superhuman. 
 
 
 
