@@ -1,4 +1,4 @@
-# Replace with recipe name
+# Breakfast Cereal
 
 ## Servings: 4
 
