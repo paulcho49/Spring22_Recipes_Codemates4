@@ -17,7 +17,7 @@
 ## Steps for preparation: 
   - take bowl out
   - add 2 cups of dry cereal
-  - pour almond milk 
+  - pour 1/8 gallon of almond milk 
 
 
 
