@@ -14,6 +14,7 @@ cup milk
 Pot
 
 ## Steps for preparation:
+Boil Water
 Put water
 Put Kraft
 Put milk and margarine
