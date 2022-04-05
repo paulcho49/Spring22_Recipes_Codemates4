@@ -1,21 +1,21 @@
 # Replace with recipe name
 
-## Servings: 
+## Servings: 4
 
-## Time to prepare: 
+## Time to prepare: 5 minutes
 
-## Ingredients:
-
-
-## Equipment needed:
+## Ingredients: half gallon milk and corn flakes 
 
 
-## Steps for preparation:
+## Equipment needed: bowl and spoon
 
 
-
-### Notes:
+## Steps for preparation: pour box of cereal and pour half gallon of milk
 
 
 
-### Codemates #
+### Notes: enough for 4.
+
+
+
+### Codemates #4
